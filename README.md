@@ -1,4 +1,4 @@
-# exercicioCurriculoCSS
+# Exercicio Curriculo
 <h1 align="center"> Currículo feito utilizando somente HTML e CSS </h1>
 <p align="justify"> Exercício de HTML e CSS da trilha de formação WEB Fullstack da letsCode em parceria com o santander! </p>
 
